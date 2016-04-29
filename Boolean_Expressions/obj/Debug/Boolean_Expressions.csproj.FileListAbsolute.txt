@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\bin\Debug\Boolean_Expressions.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\obj\Debug\Boolean_Expressions.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\bin\Debug\Boolean_Expressions.exe
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\bin\Debug\Boolean_Expressions.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\obj\Debug\Boolean_Expressions.exe
+c:\users\jon\documents\visual studio 2015\Projects\Boolean_Expressions\Boolean_Expressions\obj\Debug\Boolean_Expressions.pdb
